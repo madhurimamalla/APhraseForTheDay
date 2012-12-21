@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A Phrase for the Day</string>
+    <string name="menu_settings">Settings</string>
+    <string name="edit_message">Enter the phrase here</string>
+    <string name="button_send">Search</string>
+    <string name="hello_world">populate the string place with phrase</string>
+
+</resources>
