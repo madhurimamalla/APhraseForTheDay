@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.aphrasefortheday.MainPhraseDisplayActivity"
+            android:label="@string/title_activity_main_phrase_display"
+            android:parentActivityName="com.example.aphrasefortheday.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aphrasefortheday.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

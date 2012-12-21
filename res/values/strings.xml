@@ -6,5 +6,6 @@
     <string name="edit_message">Enter the phrase here</string>
     <string name="button_send">Search</string>
     <string name="hello_world">populate the string place with phrase</string>
+    <string name="title_activity_main_phrase_display">MainActivityDisplayPhrase</string>
 
 </resources>
